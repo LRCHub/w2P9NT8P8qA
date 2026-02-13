@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Love Shhh!",
+  "base_artist": "JO YURI",
+  "createdAt": "2026-02-13T20:16:20.732788Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Shhh!",
+      "artist": "JO YURI",
+      "has_synced": true,
+      "path": "select/01_Love_Shhh!_JO_YURI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Shhh!",
+      "artist": "Jo Yu Ri",
+      "has_synced": true,
+      "path": "select/02_Love_Shhh!_Jo_Yu_Ri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Shhh!",
+      "artist": "JO YURI",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Shhh!_JO_YURI.txt"
+    }
+  ]
+}
